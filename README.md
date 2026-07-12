@@ -128,10 +128,6 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Createyouracccount&style=for-the-badge&color=667eea&label=PROFILE+VIEWS" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
 </p>
 
