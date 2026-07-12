@@ -106,11 +106,6 @@ me.say_hi()
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Createyouracccount&show_icons=true&theme=tokyonight&border_radius=20&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Createyouracccount&layout=compact&theme=tokyonight&border_radius=20&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Createyouracccount&theme=tokyonight&border_radius=20&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" height="170" />
 </p>
 
@@ -130,5 +125,3 @@ me.say_hi()
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" />
 </p>
-
-<p align="center"><em>⭐ "Research-Driven" ⭐</em></p>
